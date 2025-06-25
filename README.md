@@ -10,6 +10,8 @@ This repository is associated with my phD research, abstract and submitted paper
 
 <br/>
 
+________________________________________________________________________________________________________________________________________________________________________
+
 **1) Abstract for World Groundwater Congress (IAH2024): Graph-based modeling of fractures in the Tsanfleuron karst aquifer system**
 
 Ana Paula Burgoa Tanaka <sup>*</sup>, Philippe Renard, Jefter Natan de Moraes Caldeira, Xiao Xia Liang, Celia Trunz, and Julien Straubhaar
@@ -45,10 +47,10 @@ In the "data/shapefile" folder, you will find:
   - Filename: `tsan_fractures.shp`
 
 - The fracture network separated in sets
-  - Filename: `NS.shp`
-  - Filename: `NESW.shp`
-  - Filename: `EW.shp`
-  - Filename: `NWSE.shp`
+  - Filename: `NS_line.shp`
+  - Filename: `NESW_line.shp`
+  - Filename: `EW_line.shp`
+  - Filename: `NWSE_line.shp`
 
 In the "data/stereo" folder, you will find:
 
