@@ -22,7 +22,7 @@ Ana Paula Burgoa Tanaka, Philippe Renard, Jefter Natan de Moraes Caldeira, Xiao 
 
 Ana Paula Burgoa Tanaka, Philippe Renard, Jefter Natan de Moraes Caldeira, Celia Trunz
 
-\corresponding author: ana.burgoa@unine.ch
+corresponding author: ana.burgoa@unine.ch
 
 <br/>
 
