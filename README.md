@@ -13,16 +13,16 @@ This repository is associated with my phD research, abstract and submitted paper
 
 **1) Abstract for World Groundwater Congress (IAH2024): Graph-based modeling of fractures in the Tsanfleuron karst aquifer system**
 
-Ana Paula Burgoa Tanaka <sup>*</sup>, Philippe Renard, Jefter Natan de Moraes Caldeira, Xiao Xia Liang, Celia Trunz, and Julien Straubhaar
+Ana Paula Burgoa Tanaka, Philippe Renard, Jefter Natan de Moraes Caldeira, Xiao Xia Liang, Celia Trunz, and Julien Straubhaar
 
 
 <br/>
 
 **2) Paper submitted: Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps**
 
-Ana Paula Burgoa Tanaka <sup>*</sup>, Philippe Renard, Jefter Natan de Moraes Caldeira, Celia Trunz
+Ana Paula Burgoa Tanaka, Philippe Renard, Jefter Natan de Moraes Caldeira, Celia Trunz
 
-\* corresponding author: ana.burgoa@unine.ch
+\corresponding author: ana.burgoa@unine.ch
 
 <br/>
 
