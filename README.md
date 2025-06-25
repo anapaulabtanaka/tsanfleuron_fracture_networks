@@ -14,7 +14,7 @@ This repository is associated with my phD research, abstract and submitted paper
 Ana Paula Burgoa Tanaka <sup>*</sup>, Philippe Renard, Jefter Natan de Moraes Caldeira, Xiao Xia Liang, Celia Trunz, and Julien Straubhaar
 
 
-________________________________________________________________________________________________________________________________________________________________________
+<br/>
 
 **2) Paper submitted: Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps**
 
