@@ -10,8 +10,6 @@ This repository is associated with my phD research, abstract and submitted paper
 
 <br/>
 
-________________________________________________________________________________________________________________________________________________________________________
-
 **1) Abstract for World Groundwater Congress (IAH2024): Graph-based modeling of fractures in the Tsanfleuron karst aquifer system**
 
 Ana Paula Burgoa Tanaka <sup>*</sup>, Philippe Renard, Jefter Natan de Moraes Caldeira, Xiao Xia Liang, Celia Trunz, and Julien Straubhaar
