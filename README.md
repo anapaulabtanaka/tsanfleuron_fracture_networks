@@ -1,4 +1,4 @@
-# Tsanfleuron fracture networks as graphs
+# Tsanfleuron fracture network as graphs
 Data set, interpretations, measurements, analysis, and examples. 
 <br>
 <img src="./cover/tsan_frac_net.png" alt="tsan_networks">
