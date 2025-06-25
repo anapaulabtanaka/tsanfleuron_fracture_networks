@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1008321304.svg)](https://doi.org/10.5281/zenodo.15739430)
+
 # Tsanfleuron fracture networks as graphs
 Data set, interpretations, measurements, analysis, and examples. 
 <br>
