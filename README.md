@@ -1,7 +1,6 @@
 # Tsanfleuron fracture networks as graphs
 Data set, interpretations, measurements, analysis, and examples. 
 <br>
-<br>
 <img src="./cover/tsan_frac_net.png" alt="tsan_networks">
 
 <br/>
