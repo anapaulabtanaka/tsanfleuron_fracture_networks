@@ -7,7 +7,7 @@ Data set, interpretations, measurements, analysis, and examples.
 
 <br/>
 
-This repository is associated with my phD research, abstract and submitted paper:
+This repository is associated with my phD research, abstract and paper under revision.
 
 <br/>
 
@@ -18,11 +18,12 @@ Ana Paula Burgoa Tanaka, Philippe Renard, Jefter Natan de Moraes Caldeira, Xiao 
 
 <br/>
 
-**2) Paper submitted: Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps**
+**2) Paper under revision: Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps**
 
 Ana Paula Burgoa Tanaka, Philippe Renard, Jefter Natan de Moraes Caldeira, Celia Trunz
 
-corresponding author: ana.burgoa@unine.ch
+## Journal reference
+A. P. B. Tanaka, P. Renard, J. N. M. Caldeira, C. Trunz (2025). Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps. *Journal of Structural Geology*. Under revision.
 
 <br/>
 
