@@ -60,7 +60,7 @@ In the "data/stereo" folder, you will find:
   - Filename: `tsan_all_dem.txt`
   - Filename: `tsan_terrain_all.txt`
 
-- The file to plot a steronet using openstereo (https://github.com/spamlab-iee/os/releases/tag/v2.0b12)
+- The file to plot a stereonet using openstereo (https://github.com/spamlab-iee/os/releases/tag/v2.0b12)
   - Filename: `tsan_field_cloud_dem.openstereo`
 
  In the "data/tensor" folder, you will find:
