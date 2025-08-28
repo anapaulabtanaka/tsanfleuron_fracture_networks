@@ -7,23 +7,13 @@ Data set, interpretations, measurements, analysis, and examples.
 
 <br/>
 
-This repository is associated with my phD research, abstract and paper under revision.
+This repository is associated with my phD research and accepted paper.
 
 <br/>
 
-**1) Abstract for World Groundwater Congress (IAH2024): Graph-based modeling of fractures in the Tsanfleuron karst aquifer system**
-
-Ana Paula Burgoa Tanaka, Philippe Renard, Jefter Natan de Moraes Caldeira, Xiao Xia Liang, Celia Trunz, and Julien Straubhaar
-
-
-<br/>
-
-**2) Paper under revision: Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps**
-
-Ana Paula Burgoa Tanaka, Philippe Renard, Jefter Natan de Moraes Caldeira, Celia Trunz
 
 ## Journal reference
-A. P. B. Tanaka, P. Renard, J. N. M. Caldeira, C. Trunz (2025). Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps. *Journal of Structural Geology*. Under revision.
+A. P. B. Tanaka, P. Renard, J. N. M. Caldeira, C. Trunz (2025). Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps. *Journal of Structural Geology*. Accepted.
 
 <br/>
 
