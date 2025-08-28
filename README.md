@@ -1,13 +1,15 @@
 [![DOI](https://zenodo.org/badge/1008321304.svg)](https://doi.org/10.5281/zenodo.15739430)
 
 # Tsanfleuron fracture networks as graphs
-Data set, interpretations, measurements, analysis, and examples. 
+Data set, interpretations, measurements, analysis, and examples.
 <br>
 <img src="./cover/tsan_frac_net.png" alt="tsan_networks">
 
 <br/>
 
-This repository is associated with my phD research and accepted paper.
+This repository is associated with my phD research and accepted paper:
+
+**Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps**
 
 <br/>
 
