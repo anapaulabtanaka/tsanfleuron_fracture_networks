@@ -17,6 +17,8 @@ This repository is associated with my phD research and accepted paper:
 ## Journal reference
 A. P. B. Tanaka, P. Renard, J. N. M. Caldeira, C. Trunz (2025). Graph-based fracture network analysis to integrate structural geology properties and identify preferential flow pathways in the aquifer system of Tsanfleuron, Swiss Alps. *Journal of Structural Geology*. Accepted.
 
+[![DOI](https://doi.org/10.1016/j.jsg.2025.105543)
+
 <br/>
 
 ## Data description
